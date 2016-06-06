@@ -1,0 +1,42 @@
+{
+  "name": "etcd",
+  "description": "Installs/Configures etcd",
+  "long_description": "Installs/Configures etcd",
+  "maintainer": "The Authors",
+  "maintainer_email": "you@example.com",
+  "license": "all_rights",
+  "platforms": {
+  },
+  "dependencies": {
+    "ark": "~> 1.1.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": "",
+  "privacy": false,
+  "chef_versions": [
+
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
